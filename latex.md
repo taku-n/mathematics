@@ -1,1 +1,5 @@
+Inline.  
+$x$
 
+Block.  
+$$x$$
