@@ -1,5 +1,7 @@
 # Memorandum
 
+1A2B3C の単元の区切り方って, 本当に効率的なんだろうか.  
+
 ## 立方根 (cube root)
 
 [負の数の三乗根](https://www.youtube.com/watch?v=CoIC1H6e7Uk)  
