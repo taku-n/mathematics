@@ -1,3 +1,7 @@
+# LaTeX
+
+## Basics
+
 Inline.  
 $x$
 
