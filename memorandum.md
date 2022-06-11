@@ -10,6 +10,8 @@ $$\sqrt[3]{a} - \sqrt[3]{b}$$
 
 $$a^{3} - b^{3} = (a - b)(a^{2} + ab + b^{2})$$
 
+$$a - b = \frac{a^{3} - b^{3}}{a^{2} + ab + b^{2}}$$
+
 が使えないかと考える  
 
 ## 相加相乗平均 (arithmetic mean and geometric mean)
